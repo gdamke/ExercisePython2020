@@ -1,4 +1,7 @@
 #/usr/bin/env python
+'''
+Python program to practice collaborative code writing.
+'''
 
 import numpy as np
 
