@@ -21,4 +21,4 @@ def division():
     pass
 
 def cuadrado(a):  # cata
-    pass
+    return a**2
