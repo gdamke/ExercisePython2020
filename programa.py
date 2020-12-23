@@ -20,3 +20,7 @@ def multiplicacion():
 def division():
     pass
 
+
+
+def Raiz_cuadrada():
+    pass
