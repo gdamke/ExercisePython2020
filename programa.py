@@ -10,8 +10,8 @@ import numpy as np
 def suma():
     pass
 
-def resta(*args):#svarela
-    return args[0]-np.sum(args[1:])
+def resta(a,b):#svarela
+    return a-b
 
     
 def multiplicacion():
