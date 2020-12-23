@@ -20,3 +20,8 @@ def multiplicacion():
 def division():
     pass
 
+
+
+def Raiz_cuadrada(a): #cata
+    return np.sqrt(a)
+    
