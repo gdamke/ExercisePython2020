@@ -7,8 +7,8 @@ For each binary function, use the variables a and b as inputs.
 
 import numpy as np
 
-def suma():
-    pass
+def suma(a,b):  # Cata
+    return a+b
 
 def resta(a,b):#svarela
     return a-b
