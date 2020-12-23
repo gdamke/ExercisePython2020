@@ -20,3 +20,5 @@ def multiplicacion():
 def division():
     pass
 
+def cuadrado(a):  # Cata
+    pass
