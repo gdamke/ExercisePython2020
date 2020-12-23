@@ -22,5 +22,6 @@ def division():
 
 
 
-def Raiz_cuadrada():
-    pass
+def Raiz_cuadrada(a): #cata
+    return np.sqrt(a)
+    
