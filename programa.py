@@ -17,8 +17,8 @@ def resta(a,b):#svarela
 def multiplicacion():
     pass
 
-def division():
-    pass
+def division(a,b):
+    return a/b
 
 
 
@@ -28,4 +28,5 @@ def Raiz_cuadrada(a): #cata
     
 def cuadrado(a):  # svarela
     return a**2
+
 
