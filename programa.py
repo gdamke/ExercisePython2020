@@ -29,3 +29,6 @@ def Raiz_cuadrada(a): #cata
 def cuadrado(a):  # svarela
     return a**2
 
+def log_natural(a): #dania
+	pass
+
