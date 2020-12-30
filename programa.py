@@ -17,8 +17,8 @@ def resta(a,b):#svarela
 def multiplicacion():
     pass
 
-def division():
-    pass
+def division(a,b): #dania
+    return a/b
 
 
 
