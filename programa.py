@@ -13,9 +13,10 @@ def suma(a,b):  # cata
 def resta(a,b):#svarela
     return a-b
 
-    
-def multiplicacion():
-    pass
+#cbeltrand    
+def multiplicacion(a,b):
+    x = a*b
+    return x
 
 def division(a,b): #dania
     return a/b
@@ -29,6 +30,6 @@ def Raiz_cuadrada(a): #cata
 def cuadrado(a):  # svarela
     return a**2
 
-def exponencial(a): 
-	return np.exp(a)
 
+def exponencial(a):
+    return np.exp(a)
