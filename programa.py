@@ -14,7 +14,8 @@ def resta(a,b):#svarela
     return a-b
 
 def multiplicacion(a,b):
-	pass
+    x = a*b
+    return x    
 
 def division(a,b): #dania
     return a/b
