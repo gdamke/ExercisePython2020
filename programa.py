@@ -30,6 +30,5 @@ def cuadrado(a):  # svarela
     return a**2
 
 
-
 def exponencial(a): #dania
     return np.exp(a)
