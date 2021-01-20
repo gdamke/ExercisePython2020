@@ -30,5 +30,9 @@ def cuadrado(a):  # svarela
     return a**2
 
 
+def log_natural(a): #dania
+    return np.log(a) #Camila
+
+
 def exponencial(a): #dania
     return np.exp(a)
