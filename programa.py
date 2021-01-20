@@ -30,5 +30,5 @@ def cuadrado(a):  # svarela
     return a**2
 
 def log_natural(a): #dania
-	return np.log(a)
+	return np.log(a) #Camila
 
